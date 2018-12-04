@@ -1,4 +1,4 @@
-# MLND-Capstone
+# MLND-Capstone-Mathematical Expression Recognition
 
 本项目基于Keras框架，使用TensorFlow作为框架。
 
